@@ -108,7 +108,7 @@ If you encounter any issues, ensure that:
 - Homebrew is installed and updated on your system.
 - The script has the necessary permissions to execute.
 
-For further assistance, please refer to the official nano documentation.
+For further assistance, please refer to the official [nano documentation](https://www.nano-editor.org/docs.php).
 
 ## License
 
